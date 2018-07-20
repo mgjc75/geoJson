@@ -23,7 +23,7 @@ For this task, you are free to use whatever technology stack/frameworks you wish
 
 LeafletJS - https://leafletjs.com/reference-1.3.0.html
 
-Try to stick to HTML, CSS and vanilla JavaScript / JQuery.
+Try to stick to HTML, CSS and vanilla JavaScript / JQuery. However, if you want to use another tech stack, that is fine too.
 
 ## Assessment
 
