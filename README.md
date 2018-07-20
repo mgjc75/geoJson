@@ -21,7 +21,7 @@ For this task, you are free to use whatever technology stack/frameworks you wish
 
 ### Recommendation
 
-LeafletJS - https://leafletjs.com/reference-1.3.0.html
+LeafletJS - https://leafletjs.com/index.html 
 
 ## Assessment
 
