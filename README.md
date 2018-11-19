@@ -17,11 +17,11 @@ Functionality can then be added to add, update, and search the various points an
 
 ## Tools, Libraries and Frameworks
 
-For this task, you are free to use whatever technology stack/frameworks you wish but you are advised to keep things simple and concise.
+For this task, you are free to use whatever technology stack/frameworks you wish but you are advised to keep things simple and concise. Hint, a standard, vanilla javscript approach id best :o)
 
 ### Recommendation
 
-LeafletJS - https://leafletjs.com/index.html 
+LeafletJS - https://leafletjs.com/index.html - The tutorial and docs are very, very helpful.
 
 ## Assessment
 
